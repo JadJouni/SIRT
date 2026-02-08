@@ -18,9 +18,9 @@ SIRT is built upon three modular pillars:
 When running the file project.py , a list of commands are presented:
 
 *   \-h, \--help         :   show this help message and exit
-*   \-u, \--url URL       :  URL to audit web headers
-*   \-p, \--password    : Password to check for breaches
-*   \-o, \--output  :  Output file to save results
+*   \-u, \--url \<URL\>      :  URL to audit web headers
+*   \-p, \--password \<PASSWORD\>   : Password to check for breaches
+*   \-o, \--output \<FILENAME\> :  Output file to save results
 
 **For example if you wanted to check if a password is breached or not, simply run:**
 
